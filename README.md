@@ -3,7 +3,7 @@
 dataはgeminiで生成しています
 ## 起動方法
 docker compose up --build で立ち上げ  
-(url)["http:localhost:5173"]  
+(url)[http:localhost:5173]  
 ## 実際の画面
 ![alt text]({0B7CBC45-8515-4785-A71B-446CE1858EC5}.png)
 ## 工夫した点
