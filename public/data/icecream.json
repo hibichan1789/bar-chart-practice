@@ -1,0 +1,7 @@
+[
+  { "flavor": "バニラ", "sales": 120 },
+  { "flavor": "チョコ", "sales": 150 },
+  { "flavor": "ストロベリー", "sales": 80 },
+  { "flavor": "抹茶", "sales": 70 },
+  { "flavor": "チョコミント", "sales": 110 }
+]
