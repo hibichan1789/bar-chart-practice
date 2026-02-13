@@ -2,6 +2,7 @@
 export interface IceCreamSales{
     flavor: IceCreamFlavor;
     sales:number;
+    backgroundColor:string;
 }
 
 type IceCreamFlavor = 

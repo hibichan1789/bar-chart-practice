@@ -1,7 +1,7 @@
 [
-  { "flavor": "バニラ", "sales": 120 },
-  { "flavor": "チョコ", "sales": 150 },
-  { "flavor": "ストロベリー", "sales": 80 },
-  { "flavor": "抹茶", "sales": 70 },
-  { "flavor": "チョコミント", "sales": 110 }
+  { "flavor": "バニラ", "sales": 120, "backgroundColor":"#FFF3E0"},
+  { "flavor": "チョコ", "sales": 150 , "backgroundColor":"#795548"},
+  { "flavor": "ストロベリー", "sales": 80 ,"backgroundColor":"#F8BBD0"},
+  { "flavor": "抹茶", "sales": 70 ,"backgroundColor":"#C8E6C9"},
+  { "flavor": "チョコミント", "sales": 110 ,"backgroundColor":"#B2EBF2"}
 ]
